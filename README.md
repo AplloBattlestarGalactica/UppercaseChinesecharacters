@@ -1,0 +1,2 @@
+# UppercaseChinesecharacters
+A simple function
